@@ -1,0 +1,6 @@
+{
+  "name": "VÉRTICE - Banco de Dados & Políticas RLS",
+  "description": "Script SQL completo para PostgreSQL/Supabase da Plataforma VÉRTICE: tabelas essenciais, ENUMs, chaves estrangeiras, índices e políticas de Row Level Security (RLS) para os 4 níveis de acesso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
